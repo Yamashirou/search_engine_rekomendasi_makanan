@@ -167,8 +167,8 @@ Pastikan file berikut ada di folder `output/`:
 
 ## Pembuat
 
-Nama    : Bintang Rifky Ananta
-NIM     : A11.2023.15116
+- Nama    : Bintang Rifky Ananta
+- NIM     : A11.2023.15116
 
 ## Lisensi
 
